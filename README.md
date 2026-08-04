@@ -10,13 +10,9 @@
 - 📚 Aprendenddo Japonês (N5)
 - 💻 Gosto de Programação e Sistemas Open Source
 
-<h1 text-aligin: center>⚜️ Skills </h1>
-<div align-itens: center display=inline margin=10px 10px 10px 10px>
+<h1 align="center">⚜️ Skills</h1>
 
-      
-<img width=50px height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" />
-<img width=50px height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-          
-              
-</div>
-          
+<p align="center">
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+</p>

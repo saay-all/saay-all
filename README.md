@@ -1,12 +1,9 @@
 ## Hi there 👋
 
-**saay-all/saay-all** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 Eu estou aprendendo Rust
+- 📚 Aprendenddo Japonês
 
+  
 ### Skills
 <div display=inline margin=10px 10px 10px 10px>
 

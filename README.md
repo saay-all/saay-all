@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 - 🌱 Eu estou aprendendo Rust
-- 📚 Aprendenddo Japonês
+- 📚 Aprendenddo Japonês (N5)
+- 💻 Gosto de Programação e Sistemas Open Source
 
   
 ### Skills

@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<img
+  src="https://ishan-rest.vercel.app/svg/banner/dev8/Alexandre_Goulart/Back-End"
+  width=100%
+/>
+
+
 - 🌱 Eu estou aprendendo Rust
 - 📚 Aprendenddo Japonês (N5)
 - 💻 Gosto de Programação e Sistemas Open Source
@@ -14,9 +20,3 @@
               
 </div>
           
-![Developer Banner 8](https://ishan-rest.vercel.app/svg/banner/dev8/Alexandre_Goulart/Back-End)
-
-<img
-  src="https://ishan-rest.vercel.app/svg/banner/dev8/Alexandre_Goulart/Back-End"
-  width=100%
-/>

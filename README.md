@@ -1,10 +1,5 @@
 
 
-<img
-  src="https://ishan-rest.vercel.app/svg/banner/dev8/Alexandre_Goulart/Back-End"
-  width=100%
-/>
-
 
 - 🌱 Eu estou aprendendo Rust
 - 📚 Aprendenddo Japonês (N5)
